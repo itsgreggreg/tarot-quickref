@@ -1,4 +1,5 @@
 # Tarot Quick Reference
+ - Rider-Waite Deck https://en.wikipedia.org/wiki/Rider-Waite_tarot_deck
 
 # The Deck
  - 78 Cards
