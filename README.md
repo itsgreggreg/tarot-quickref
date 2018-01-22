@@ -64,3 +64,15 @@
  - May suggest meaning in numerology.
  - Combine with the qualities of the suit they are from.
  - Use your intuition to reveal something possibly based on the picture or number.
+
+## The Suits
+
+### Wands
+ - Corresponds to fire
+ - It suggests growth, expansion, and personal power.
+ - Masculine, Yang energy.
+ - Usually an indication of of some sort of action or growth.
+ - You may be embarking on an adventure or must summon your courage for a challenge.
+ - Perhaps use your intuition rather than get lost in logic
+ - Perhaps you need to have fun, take some risks, assert yourself, or be creative
+ 
