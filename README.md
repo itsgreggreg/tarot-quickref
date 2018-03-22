@@ -24,7 +24,7 @@
  - 4 suits of 14 cards
    - Suits : Wands, Pentacles, Swords, Cups
    - Court Cards : King, Queen, Knight, Page
-   - Pip Cards : Ace - 10 are
+   - Pip Cards : Ace - 10
  - For answering questions about the Here and Now
  - Refer to specific areas of everyday life and human experience
  - No deep mythical meaning to attach them to
@@ -69,10 +69,37 @@
 
 ### Wands
  - Corresponds to fire
- - It suggests growth, expansion, and personal power.
  - Masculine, Yang energy.
+ - It suggests growth, expansion, and personal power.
  - Usually an indication of of some sort of action or growth.
  - You may be embarking on an adventure or must summon your courage for a challenge.
- - Perhaps use your intuition rather than get lost in logic
- - Perhaps you need to have fun, take some risks, assert yourself, or be creative
+ - Perhaps use your intuition rather than get lost in logic.
+ - Perhaps you need to have fun, take some risks, assert yourself, or be creative.
  
+### Swords
+ - Corresponds to Air.
+ - Masculine, Yang energy.
+ - Struggle in transforming experience into knowledge.
+ - Mental or Verbal activity is a priority.
+ - Perhaps you are overworking your mind.
+ - Perhaps don't let your heart rule your head.
+ - Can represent communication, study, or cutting through murky situations with logic and discrimination.
+  
+### Cups
+ - Corresponds to Water.
+ - Feminine, Yin energy.
+ - Receptive, inner-directed, reflective, connected with the emotions, creativity, and intuition
+ - Represent the ability to receive and hold.
+ - Can suggest the womb.
+ - Suggest comfort, security and contentment.
+ - Describe a person with such qualities.
+ - Perhaps you are suffering a loss or disappointment, or are on your way to recovery and emotional renewal.
+ 
+## Pentacles
+ - Correspond to Earth.
+ - Feminine, Yin energy.
+ - Relates to the planet, sustinance, stability, security.
+ - Practical matters, money, resources, the body, the material world, things that sustain us on the earthly plane.
+ - Financial or work related matters are prominent on the mind
+ - May suggest a need to focus on practical concerns
+ - Or perhaps you are focusing too much on the material world
