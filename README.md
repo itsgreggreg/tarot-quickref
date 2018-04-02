@@ -95,7 +95,7 @@
  - Describe a person with such qualities.
  - Perhaps you are suffering a loss or disappointment, or are on your way to recovery and emotional renewal.
  
-## Pentacles
+### Pentacles
  - Correspond to Earth.
  - Feminine, Yin energy.
  - Relates to the planet, sustinance, stability, security.
@@ -103,3 +103,36 @@
  - Financial or work related matters are prominent on the mind
  - May suggest a need to focus on practical concerns
  - Or perhaps you are focusing too much on the material world
+
+## Numbers
+ - Reflectet stages of development and reveal how a matter is evolving.
+ - Combined with the suit, you can determine how a card applies to a situation.
+ 
+### Ace
+ - New beginnings.
+ - self development, creativity, action, a new chance, rebirth.
+ - A seed has been planted. You can water it or let it die.
+ - The energy of One is solitary and self contained
+ 
+### Two
+ - depicts some kind of union or partnership, with another person, a spiritual entity, or two parts of yourself
+ - yin and yang, male and female, private and public, separate and together
+ - Continuing from Ace, Two represents stabalizing and affirming the new opportunity.
+ - Represents greater chances for a desireable outcome, but possibly greater obsticles in achieving that outcome.
+ - Two's energy is a sensitivity to others' needs, perhaps to the detrement of your own.
+ 
+### Three
+ - The trinity of Mind, Body and Spirit
+ - Openness, optimism and clarity
+ - Action, growth, development
+ - Where you start to see the big picture, where continuing from Two the project begins to take form
+ 
+### Four
+ - The four elements, directions and seasons.
+ - Totality, stability, security.
+ - If you are in a place you want to be—a home, job, relationship—you might have to work to maintain stability; if you aren’t where you want to be, drawing Fours suggests it’s time to plan and work to make appropriate changes
+ - Take slow, steady, determined steps and move patiently to bring your dreams to fruition
+ 
+
+
+
